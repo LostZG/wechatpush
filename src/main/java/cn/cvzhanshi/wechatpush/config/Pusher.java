@@ -28,8 +28,8 @@ public class Pusher {
     @Resource
     private CaiHongPiUtils caiHongPiUtils;
 
-    private static String appId = "wx2891599270953630";
-    private static String secret = "416841903e72650559ada35c18a59e37";
+    private static String appId = "x";
+    private static String secret = "x";
 
     private static List<String> users = Lists.newArrayList("oMrF_6GVXaA93R0Te-lzfV2urwx4", "oMrF_6OM3JlC_RH0wB9e4TuxLBFo"
             , "oMrF_6ClDFovSMHs__MJ0xSIeuDc", "oMrF_6Btu2eGv3ZAEzO6Th5GnJ0g");
